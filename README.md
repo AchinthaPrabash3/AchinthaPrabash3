@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **any front-end projects**
 
-- 👨‍💻 All of my projects are available at [https://achintha-portfolio.netlify.app](https://achintha-portfolio.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://achintha-portfolio.netlify.app](https://achintha-portfolio.netlify.app/)
 
 - 💬 Ask me about **React JS, Tailwindcss**
 
