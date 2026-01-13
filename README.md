@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Achintha Prabasha</h1>
-<h3 align="center">Hi! I am Achintha Prabasha. I'm a passionate front-end developer from Sri Lanka trying to level up my coding and tech knowledge through any means necessary. Currently not working but following a software engineering degree so hopefully one day I can join the industry if there is any industry left to join.✌️</h3>
+<h3 align="center">Hi! I am Achintha Prabasha. I'm a passionate full-stack developer from Sri Lanka trying to level up my coding and tech knowledge through any means necessary. Currently working at Octick Digital. familiar with Next.js, TailwindCSS, GSAP, Motion.dev, and more.✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achinthaprabash3&label=Profile%20views&color=0e75b6&style=flat" alt="achinthaprabash3" /> </p>
 
-- 🔭 I’m currently working on **mobile application project**
+- 🔭 I’m currently working on **some Full-stack projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
-- 🤝 I’m looking for help with **any front-end projects**
+- 🤝 I’m looking for help with **any front-end / full-stack projects**
 
 - 👨‍💻 All of my projects are available at [https://achintha-portfolio.netlify.app](https://achintha-portfolio.netlify.app/)
 
-- 💬 Ask me about **React JS, Tailwindcss**
+- 💬 Ask me about **React JS, Tailwindcss, GSAP, Motion dev**
 
 - 📫 How to reach me **achinthaprabash3@gmail.com**
 
